@@ -1,3 +1,18 @@
+route53-view
+================
+
+View Route53 zones.
+
+Usage
+-----
+
+View a zone
+~~~~~~~~~~~
+::
+
+    python export-zone.py example.com
+
+
 route53-transfer
 ================
 
